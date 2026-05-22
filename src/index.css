@@ -1,1 +1,80 @@
 @import "tailwindcss";
+
+@layer components {
+    .prose p {
+      margin-bottom: 1rem;
+      line-height: 1.8;
+    }
+  
+    .prose h1 {
+      margin-bottom: 1.5rem;
+    }
+  
+    .prose h2 {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+  
+    .prose ul {
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
+  }
+
+  @layer components {
+    .prose ul {
+      margin-bottom: 2rem;
+    }
+  
+    .prose li {
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+  
+    .prose p {
+      margin-bottom: 1.25rem;
+      line-height: 1.8;
+    }
+  
+    .prose h2 {
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+    }
+  
+    .prose h3 {
+      margin-top: 2rem;
+      margin-bottom: 0.75rem;
+    }
+  }
+
+  @layer components {
+    .prose h1 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+  
+    .prose ul {
+      margin-bottom: 2rem;
+    }
+  
+    .prose li {
+      margin-top: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+  
+    .prose p {
+      margin-bottom: 1.25rem;
+      line-height: 1.8;
+    }
+  
+    .prose h2 {
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+    }
+  
+    .prose h3 {
+      margin-top: 2rem;
+      margin-bottom: 0.75rem;
+    }
+  }

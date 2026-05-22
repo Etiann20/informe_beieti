@@ -13,7 +13,7 @@ function MarkdownPage({ file }) {
 
   return (
     <div className="bg-white rounded-xl shadow-lg p-8">
-      <article className="prose prose-slate max-w-none">
+      <article className="prose prose-slate lg:prose-lg max-w-none">
         <ReactMarkdown remarkPlugins={[remarkGfm]}>
           {content}
         </ReactMarkdown>
