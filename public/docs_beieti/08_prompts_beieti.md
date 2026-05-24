@@ -14,7 +14,6 @@ Posteriormente se leyó el resumen entregado y también se investigó sobre el c
 
 ------
 
-
 ## **Prompt Utilizado para Análisis Normativo**
 
 *"Analiza el incidente de Uber 2016 mencionando anteriormente, considerando la ley 21.459, la ley 19.628, el reglamento general de protección de datos (GDPR) y el ISO 27001. Relaciona cada normativa con los hechos del incidente"*
@@ -22,6 +21,31 @@ Posteriormente se leyó el resumen entregado y también se investigó sobre el c
 En este caso se investigaron las leyes y reglamentos mencionados para confirmar la relación de la Ley o Normativa aplicada con los hechos, como también con la información obtenida se adaptó manualmente el contenido. 
 
 ------
+
+## **Prompt Utilizado para Analisis de Delitos Informaticos 
+
+*"Relaciona el incidente de ciberseguridad de Uber 2016 con los margenes legales que establece la Ley 21.459 chilena, considera el acceso ilicito, la extraccion de datos, el uso indebido de credenciales y las posibles responsabilidades penales."* 
+
+La respuesta de la IA entregó respuestas demasiado generales, y se buscaban algunos conceptos más precisos desde los marcos legales. Debido esto, luego de leer la respuesta  e investigar de manera propia, se reorganizo el analisis por categorias, se utilizo lenguaje simple y se precisó coherencia respecto al caso presentado. 
+
+----
+
+## **Prompt Utilizado para Comparacion Regulatoria 
+
+*"Compara la Ley 21.459 chilena, GDPR e ISO 27001 teniendo en cuenta sus objetivos, responsabilidades, proteccion de datos y gestion de incidentes. Luego relaciona cada normativa con el incidente Uber 2016"* 
+
+La IA mezclo estandares con normativas legales, algunas comparaciones eran muy confusas. Luego de revisiones, se resumió la información en un formato de analisis comparativo y se ajusto el lenguaje y analisis para un formato academico. 
+
+
+
+
+
+
+
+
+
+
+
                               DEJAR AL FINAL
 ## **Reflexión Uso de IA**
 
