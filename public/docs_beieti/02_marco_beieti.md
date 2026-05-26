@@ -2,7 +2,7 @@
 
 ### **Ley 21.459 sobre Delitos Informáticos (Chile)**
 
-La ley 21.459 estandariza conductas relacionadas con: 
+Estandariza conductas relacionadas con: 
 
     - Acceso iícito. 
     - Interceptación de datos. 
@@ -18,7 +18,7 @@ Resulta aplicable al "Caso Uber" debido al acceso no autorizado realizado por lo
 
 ### **Ley 19.628 sobre la Protección de la Vida Privada**
 
-La ley 19.628 regula el tratamiento de datos personales y establece obligaciones respecto a: 
+Regula el tratamiento de datos personales y establece obligaciones respecto a: 
 
     - Almacenamiento. 
     - Protección. 
@@ -33,7 +33,7 @@ El "Caso Uber" involucra exposición de datos personales de millones de usuarios
 
 ### **Reglamento General de Proteccion de Datos (GDPR) - Unión Europea**
 
-El GDPR establece estrictas obligaciones sobre: 
+Establece estrictas obligaciones sobre: 
 
     - Protección de datos.
     - Notificación de incidentes. 
@@ -48,7 +48,7 @@ El "Caso Uber" tuvo impacto internacional, incluyendo usuarios europeos.
 
 ### **ISO/IEC 27001**
 
-ISO 27001 corresponde a un estándar internacional de gestión de seguridad de la información. 
+Corresponde a un estándar internacional de gestión de seguridad de la información. 
 
 El caso estudiado evidencia fallas en: 
 

@@ -1,16 +1,43 @@
-# React + Vite
+# Informe BEIETI - Caso Uber 2016
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto realizado en React sobre el caso de ciberseguridad sufrido por Uber en 2016.
 
-Currently, two official plugins are available:
+El objetivo del trabajo es analizar:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* delitos informáticos,
+* responsabilidades legales,
+* tratamiento de datos personales,
+* Ley 21.459,
+* Ley 19.628,
+* y derechos ARCO.
 
-## React Compiler
+## Tecnologías usadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* TailwindCSS
+* React Router
+* React Markdown
 
-## Expanding the ESLint configuration
+## Contenido del proyecto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Resumen del caso
+* Marco normativo
+* Delitos informáticos
+* Comparación de normativas
+* Responsabilidades legales
+* Protección de datos personales
+* Conclusiones
+* Prompts utilizados
+
+## Cómo ejecutar el proyecto
+
+```bash
+npm install
+npm run dev
+```
+
+## Autor
+
+Etiann Beiza Bernal.
+Proyecto realizado para evaluación académica.

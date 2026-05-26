@@ -4,7 +4,7 @@ El incidente de Uber permite comparar distintos marcos legales relacionados con 
 
 ---
 
-# Comparación entre normativas
+## **Comparación entre normativas**
 
 ### **Ley 21.459 (Chile)**
 

@@ -6,9 +6,9 @@ El caso permite analizar la forma en que se aplica la Ley 19.628 sobre la protec
 
 -------
 
-# Tipos de Datos Involucrados
+## **Tipos de Datos Involucrados**
 
-## **Datos Personales** 
+### **Datos Personales** 
 
 Los datos personales son informacion que permite identificar directamente o indirectamente a una persona. En este caso los datos comprometidos son: 
 
@@ -20,7 +20,7 @@ Los datos personales son informacion que permite identificar directamente o indi
 
 ---
 
-## **Datos Sensibles** 
+### **Datos Sensibles** 
 
 La ley 19.628 define los datos sensibles como informacion relacionada a aspectos privados de las personas que podrigan generar vulneracion o afectar su intimidad. Entre ellos son datos relacionados con **salud**, **ideologia**, **creencias religiosas**, **vida privada**, **caracteristicas personales sensibles**. 
 
@@ -28,38 +28,38 @@ En el caso uber no paso una filtracion gigante de datos sensibles, pero si se co
 
 -----
 
-## **Ley 19.628 sobre Proteccion de la Vida Privada**
+### **Ley 19.628 sobre Proteccion de la Vida Privada**
 
 Esta ley regula el tratamiento de datos personales en Chile, se enfoca en proteger la privacidad de las personas y establecer obligaciones sobre, almacenamiento, utilizacion, modificacion y proteccion de informacion personal. Además, intenta evitar que se usen de manera indebida los datos y se expongan de manera no autorizada. 
 
 -------
 
-# Derechos ARCO 
+## **Derechos ARCO** 
 
 Esta normativa establece derechos con la finalidad de entregar un mayor control a las personas sobre su informacion personal. 
 
-## **Derecho de Acceso** 
+### **Derecho de Acceso** 
 
 Es el derecho de conocer que informacion posee una organizacion sobre una persona y como utilizan cierta informacion.
 
-## **Derecho de Rectificacion**
+### **Derecho de Rectificacion**
 
 Enfocado en dar derecho a solicitar correcion de datos incorrectos, incompletos o desactualizados. 
 
-## **Derecho de Cancelacion** 
+### **Derecho de Cancelacion** 
 
 El derecho de permitir solicitar la eliminacion de informacion personal cuando su almacenamiento no se encuentre justificado. 
 
-## **Derecho de Oposicion**
+### **Derecho de Oposicion**
 
 Es el derecho de rechazar el uso de datos personales en determinadas situaciones. 
 
-## **Aplicabilidad al Caso Uber**
+### **Aplicabilidad al Caso Uber**
 
 El incidente evidencia riesgos asociados a almacenamiento masivo de informacion, controles insuficientes de seguridad y vulneracion de privacidad de usuarios.
 
 ----
 
-# Conclusion 
+## **Conclusion** 
 
 Proteger los datos personales es un elemento fundamental dentro de las empresas modernas que utilizan estructuras de ciberseguridad. Las organizaciones que administran volumenes de informacion deben dar por seguro la seguridad, privacidad y transparencia de los datos personales y sensibles. 

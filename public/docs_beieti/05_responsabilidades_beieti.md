@@ -13,11 +13,10 @@ El analisis permite identificar obligaciones y posibles incumplimientos relacion
 - 1. Acceso Ilicito. 
 - 2. Proteccion de Datos. 
 - 3. Seguridad de la Informacion. 
-- 4. Deber de Resguardo de Información Personal. 
 
 ------ 
 
-# **Actores Involucrados** 
+## **Actores Involucrados** 
 
 ## **1. Atacantes Informaticos**
 
@@ -28,7 +27,8 @@ Los atacantes realizaron accesos no autorizados a sistemas y respositorios priva
 Estas conductas pueden relacionarse con ***acceso ilicito***, ***obtención indebida de datos*** y ***utilización no autorizada de información informática***.
 
 ### **Normativa Relacionada, Ley 21.459 sobre Delitos Informaticos**
-- La Ley 21.459 regula y sanciona delitos relacionados con sistemas informaticos y datos digitales. La normativa se enfoca en proteger la seguridad de la información, sancionando conductas relacionadas al acceso no deseado, fraudo informatico, interceptacion de datos y vulneracionde sistemas.  
+
+La Ley 21.459 regula y sanciona delitos relacionados con sistemas informaticos y datos digitales. La normativa se enfoca en proteger la seguridad de la información, sancionando conductas relacionadas al acceso no deseado, fraudo informatico, interceptacion de datos y vulneracionde sistemas.  
 
 
 ### **Aplicabilidad al Caso**
@@ -69,7 +69,7 @@ El incidente evidenció fallas y deficiencias relacionadas con **almacenamiento 
 
 ------
 
-# Conclusión 
+## **Conclusión** 
 
 El caso uber demuestra que los incidentes de ciberseguridad pueden generar y evidenciar muchas responsabilidades dependiendo de los actores involucrados.
 
