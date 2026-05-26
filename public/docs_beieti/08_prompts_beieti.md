@@ -22,7 +22,7 @@ En este caso se investigaron las leyes y reglamentos mencionados para confirmar 
 
 ------
 
-## **Prompt Utilizado para Analisis de Delitos Informaticos 
+## **Prompt Utilizado para Analisis de Delitos Informaticos** 
 
 *"Relaciona el incidente de ciberseguridad de Uber 2016 con los margenes legales que establece la Ley 21.459 chilena, considera el acceso ilicito, la extraccion de datos, el uso indebido de credenciales y las posibles responsabilidades penales."* 
 
@@ -30,23 +30,30 @@ La respuesta de la IA entregó respuestas demasiado generales, y se buscaban alg
 
 ----
 
-## **Prompt Utilizado para Comparacion Regulatoria 
+## **Prompt Utilizado para Comparacion Regulatoria** 
 
 *"Compara la Ley 21.459 chilena, GDPR e ISO 27001 teniendo en cuenta sus objetivos, responsabilidades, proteccion de datos y gestion de incidentes. Luego relaciona cada normativa con el incidente Uber 2016"* 
 
 La IA mezclo estandares con normativas legales, algunas comparaciones eran muy confusas. Luego de revisiones, se resumió la información en un formato de analisis comparativo y se ajusto el lenguaje y analisis para un formato academico. 
 
+--------
 
+## **Prompt Utilizado para Analisis de Responsabilidades**
 
+*"Analiza las responsabilidades legales presentes en el caso Uber 2016 considerando, separa por actores involucrados, y para cada involucrado desarrolla su responsabilidad penal, la normativa que se relaciona con la responsabilidad del actor, y como aplica al caso Uber 2016"*
 
+La IA generalizo en las respuestas y mezclaba consecuencias legales con pensamientos eticos. Para corregir esto, se separo las responsabilidades por actor involucrado, y se relaciono la conducta con alguna normativa que encaje con su papel en el caso. 
 
+-----
 
+## **Prompt Utilizado para Tratamiento de Datos Personales**
 
+*"Explica como se tratan los datos personales en el caso uber 2016, quiero que diferencies entre datos personales y datos sensibles, ademas para dar la explicacion quiero que consideres la ley 19.628, tipos de datos y los derechos ARCO"*
 
+Las respuestas dadas por la IA tenian poca relacion entre las normativas y el caso practico. Se organizo el contenido por categorias, se investigo mas a fondo los conceptos de reglamentos y se relaciono con el incidente de Uber. 
 
+------
 
-
-                              DEJAR AL FINAL
 ## **Reflexión Uso de IA**
 
 La inteligencia artificial fue principalmente utilizada como apoyo para acelerar búsqueda de información, organizar ideas y generar los borradores iniciales. 
