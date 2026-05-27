@@ -54,6 +54,22 @@ Las respuestas dadas por la IA tenian poca relacion entre las normativas y el ca
 
 ------
 
+## **Prompt Utilizado para Diseño y Mejoras Visuales de la Aplicación Web**
+
+*"Quiero mejorar visualmente mi aplicación web desarrollada en React y Vite utilizando un diseño más moderno, minimalista y agradable visualmente.*
+
+*Me gustaría agregar una barra de navegación fija con efectos de transparencia al hacer scroll y animaciones suaves al interactuar con los botones. También quiero que la barra reduzca el texto y deje solo los iconos cuando el usuario baje en la página.*
+
+*Quiero implementar un modo oscuro con colores azul oscuro y cyan relacionados a ciberseguridad, y un modo claro con colores pastel, rosado suave y beige cálido para dar una apariencia más estética y moderna.* 
+
+*Además, quiero agregar efectos hover más elegantes en botones, animaciones suaves de aparición del contenido, sombras ligeras y un diseño responsive que funcione correctamente en dispositivos móviles.* 
+
+*Finalmente, quiero incluir un footer simple y minimalista que muestre mi nombre, la finalidad del proyecto y el nombre de la institución."*
+
+El resultado de este prompt fueron gran parte de los codigos utilizados para el diseño de la pagina, al principio no fue precisa, pero poco a poco se fue ajustando a lo que se buscaba y lo que fue el resultado final.
+
+-----
+
 ## **Reflexión Uso de IA**
 
 La inteligencia artificial fue principalmente utilizada como apoyo para acelerar búsqueda de información, organizar ideas y generar los borradores iniciales. 

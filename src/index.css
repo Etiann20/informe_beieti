@@ -1,71 +1,173 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@layer components {
-    .prose p {
-      margin-bottom: 1rem;
-      line-height: 1.8;
-    }
-  
-    .prose h1 {
-      margin-bottom: 1.5rem;
-    }
-  
-    .prose h2 {
-      margin-top: 2rem;
-      margin-bottom: 1rem;
-    }
-  
-    .prose ul {
-      margin-top: 1rem;
-      margin-bottom: 1rem;
-    }
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+  color: #3b2f2f;
+  animation: fadeSlide 0.7s ease;
+}
+
+.dark h1 {
+  color: #f8fafc;
+}
+
+h2 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #4b3b3b;
+  transition: all 0.4s ease;
+}
+
+.dark h2 {
+  color: #f1f5f9;
+}
+
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  color: #6b5555;
+}
+
+.dark h3 {
+  color: #cbd5e1;
+}
+
+p,
+li,
+strong {
+  color: inherit;
+}
+
+p {
+  line-height: 1.9;
+  margin-bottom: 1.2rem;
+}
+
+ul,
+ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.7rem;
+}
+
+hr {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  border-color: #d8c2c2;
+}
+
+.dark hr {
+  border-color: #334155;
+}
+
+.animate-fadeIn {
+  animation: cinematicFade 0.7s ease;
+}
+
+@keyframes cinematicFade {
+  from {
+    opacity: 0;
+    transform: translateY(15px) scale(0.98);
+    filter: blur(6px);
   }
 
-@layer components {
-    .prose ul {
-      margin-bottom: 2rem;
-    }
-  
-    .prose li {
-      margin-top: 0.5rem;
-      margin-bottom: 0.5rem;
-    }
-  
-    .prose p {
-      margin-bottom: 1.25rem;
-      line-height: 1.8;
-    }
-  
-    .prose h2 {
-      margin-top: 2.5rem;
-      margin-bottom: 1rem;
-    }
-  
-    .prose h3 {
-      margin-top: 2rem;
-      margin-bottom: 0.75rem;
-    }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
   }
 
-@layer components {
-    .prose h1 {
-      text-align: center;
-      font-size: 3rem;
-      margin-bottom: 2rem;
-    }
-  
-    .prose ul {
-      margin-bottom: 2rem;
-    }
-  
-    .prose ol {
-      margin-bottom: 2rem;
-      padding-left: 1.5rem;
-      list-style-type: decimal;
-    }
-  
-    .prose ol li {
-      margin-top: 0.5rem;
-      margin-bottom: 0.5rem;
-    }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
+}
+
+@keyframes backgroundMove {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  border-radius: 1rem;
+}
+
+thead {
+  background: rgba(120, 53, 15, 0.08);
+}
+
+.dark thead {
+  background: rgba(34, 211, 238, 0.12);
+}
+
+th {
+  padding: 1rem;
+  text-align: left;
+  font-weight: 700;
+  border: 1px solid rgba(120, 53, 15, 0.12);
+}
+
+.dark th {
+  border: 1px solid rgba(34, 211, 238, 0.18);
+}
+
+td {
+  padding: 1rem;
+  border: 1px solid rgba(120, 53, 15, 0.08);
+  vertical-align: top;
+}
+
+.dark td {
+  border: 1px solid rgba(34, 211, 238, 0.12);
+}
+
+tbody tr {
+  transition: all 0.3s ease;
+}
+
+tbody tr:hover {
+  background: rgba(255, 255, 255, 0.45);
+}
+
+.dark tbody tr:hover {
+  background: rgba(34, 211, 238, 0.05);
+}
